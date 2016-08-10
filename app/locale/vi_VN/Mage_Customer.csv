@@ -1,0 +1,474 @@
+﻿ or 	 or 
+'%value%' appears to be a DNS hostname but cannot extract TLD part	'%value%' appears to be a DNS hostname but cannot extract TLD part
+'%value%' appears to be a DNS hostname but cannot match TLD against known list	'%value%' appears to be a DNS hostname but cannot match TLD against known list
+'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'	'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'
+'%value%' appears to be a DNS hostname but contains a dash in an invalid position	'%value%' appears to be a DNS hostname but contains a dash in an invalid position
+'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded	'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded
+'%value%' appears to be a local network name but local network names are not allowed	'%value%' appears to be a local network name but local network names are not allowed
+"'%value%' appears to be an IP address, but IP addresses are not allowed"	"'%value%' appears to be an IP address, but IP addresses are not allowed"
+'%value%' does not appear to be a valid local network name	'%value%' does not appear to be a valid local network name
+* Required Fields,* Bắt buộc
+ALL GROUPS,TẤT CẢ CÁC NHÓM
+Account Dashboard,Bảng quản lý tài khoản
+Account Information,Thông tin tài khoản
+Account Sharing Options,Tùy chọn chía sẻ tài khoản
+"Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%s"">click here</a>.","Xác nhận tài khoản là bắt buộc. Vui lòng kiểm tra email của bạn để xác nhận liên kết. để gửi lại email xác nhận vui lòng <a href=""%s"">click vào đây</a>."
+Action,Hoạt động
+Add New Address,Thêm địa chỉ mới
+Add New Customer,Thêm khách hàng
+Add New Customer Group,Thêm nhóm khách hàng
+Added From,Thêm từ
+Additional Address Entries,Mục địa chỉ bổ sung
+Address,Địa chỉ
+Address Book,Danh sách địa chỉ
+Address Books,Số địa chỉ
+Address Information,Thông tin địa chỉ
+Address Templates,Mẫu địa chỉ
+Addresses,Địa chỉ
+Admin,Người quản trị
+All,Tất cả
+All Store Views,Tất cả các cảnh cửa hàng
+All countries,Tất cả các quốc gia
+Always optional.,Tùy chọn luôn luôn.
+Amount,Tổng cộng
+An error occurred while deleting the address.,Có lỗi xảy ra khi xóa địa chỉ.
+An error occurred while retrieving the option value: %s.,Xảy ra lỗi khi truy xuất các giá trị tùy chọn: %s.
+"An error occurred while saving the collection, aborting. Error: %s","Có lỗi xảy ra khi lưu bộ sưu tập, hủy bỏ. Lỗi: %s"
+"An invalid option ID is specified for %s (%s), skipping the record.","Một lựa chọn ID không hợp lệ được quy định cho %s (%s), bỏ qua bản ghi."
+Approved,Đã chấp nhận
+Are you sure that you want to remove this item?,Bạn có chắc chắn muốn loại bỏ mặt hàng này?
+Are you sure you want to cancel adding of this address?,Bạn có chắc chắn muốn hủy bỏ việc thêm địa chỉ này?
+Are you sure you want to delete this address?,Bạn có chắc chắn muốn xóa địa chỉ này?
+Are you sure?,Bạn có chắc không?
+Array of Entity collections is expected.,Mảng của bộ sưu tập thực thể được kì vọng.
+Assign a Customer Group,Chỉ định một nhóm khách hàng
+Average Sale,Giá cả trung bình
+Back,Quay lại
+Back - link to the previously viewed page,Quay lại - liên kết đến trang trước đó
+Back to Login,Quay lại đăng nhập
+Bad request.,Yêu cầu xấu.
+"Based on the VAT ID, the customer would belong to the Customer Group %s.","Dựa trên ID VAT, khách hàng sẽ thuộc về nhóm khách hàng %s."
+Bill to Name,Hóa đơn đề tên
+Bought From,Mua từ
+"By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","Bằng cách tạo một tài khoản với của hàng chúng tôi, bạn có thể thông qua quy trình kiểm tra nhanh hơn, lưu trữ nhiều địa chỉ giao hàng, xem và theo dõi đơn đặt hàng của bạn và nhiều hơn nữa."
+CSV	CSV
+Cancel,Hủy
+Cannot save a new password.,Không thể lưu mật khẩu mới.
+Cannot save address.,Không thể lưu địa chỉ.
+Cannot save the customer.,Không thể lưu khách hàng.
+Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.,Không thể chia sẽ tài khoản của khách hàng trên toàn cầu vì một số khách hàng với tài khoản email cùng tồn tại trên nhiều trang web và không thể được sát nhập.
+Change Account Password,Thay đổi mật khẩu tài khoản
+Change Billing Address,Thay đổi địa chỉ thanh toán
+Change Password,Thay đổi mật khẩu
+Change Shipping Address,Thay đổi địa chỉ giao hàng
+City,Thành phố
+Company,Công ty
+Config,Cấu hình
+Configure,Cấu hình
+Confirm New Password,Xác nhận mật khẩu mới
+Confirm Password,Xác nhận mật khẩu
+Confirmation Link Email,Xác nhận email liên kết
+Confirmed,Đã xác nhận
+Contact Information,Thông tin liên lạc
+Continue Shopping,Tiếp tục mua sắm
+Country,Quốc gia
+Create,Tạo
+Create New Account Options,Tạo tùy chọn tài khoản mới
+Create New Customer Account,Tạo tài khoản khách hàng mới
+Create Order,Tạo đơn hàng
+Create an Account,Tạo một tài khoản
+Create customer,Tạo khách hàng
+Create customer address,Tạo địa chỉ khách hàng
+Current Admin Password,Mật khẩu quản trị hiện tại
+Current Password,Mật khẩu hiện tại
+Customer,Khách hàng
+Customer API,API khách hàng
+Customer Account Edit Form,Bảng chỉnh sửa tài khoản khách hàng
+Customer Account Login Form,Bảng đăng nhập tài khoản khách hàng
+Customer Account Logout Success,Tài khoản khách hàng đăng xuất thành công
+Customer Account Registration Form,Bảng đăng kí tài khoản khách hàng
+Customer Addresses,Địa chỉ khách hàng
+Customer Configuration,Tùy chỉnh khách hàng
+Customer Forgot Password Form,Mẫu khách hàng quên mật khẩu
+Customer Group,Nhóm khách hàng
+Customer Groups,Các nhóm khách hàng
+Customer Information,Thông tin khách hàng
+Customer Login,Khách hàng đăng nhập
+Customer My Account (All Pages),Khách hàng Tài khoản của tôi (Tất cả các trang)
+Customer My Account Address Book,Khách hàng Sổ địa chỉ tài khoản của tôi
+Customer My Account Address Edit Form,Bảng chỉnh sửa địa chỉ tài khoản khách hàng
+Customer My Account Dashboard,Bảng quản lý tài khoản của khách hàng
+Customer Since,Khách hàng lâu năm
+Customer View,Khách hàng tham quan
+Customer collection expected.,Khách hàng kỳ vọng.
+Customer email is required,Email khách hàng là bắt buộc
+Customer website ID must be specified when using the website scope,ID website của khách hàng phải được xác định khi sử dụng trong phạm vi trang web
+"Customer will stay on the current page if ""No"" is selected.","Khách hàng sẽ quay lại trang hiện tại nếu ""Không"" được lựa chọn."
+Customers,Các khách hàng
+Customers Only,Chỉ các khách hàng
+Customers Section,Mục khách hàng
+DD	DD
+Date,Ngày
+Date Added,Thêm ngày
+Date of Birth,Ngày sinh
+Day,Ngày
+Days in Wishlist,Ngày trong danh sách ưa thích
+Default Addresses,Địa chỉ mặc định
+Default Billing Address,Địa chỉ thanh toán mặc định
+Default Email Domain,Miền email mặc định
+Default Group,Nhóm mặc định
+Default Shipping Address,Địa chỉ giao hàng mặc định
+Default Value for Disable Automatic Group Changes Based on VAT ID	Default Value for Disable Automatic Group Changes Based on VAT ID
+Default Welcome Email	Default Welcome Email
+Delete,Xóa
+Delete Address,Xóa địa chỉ
+Delete Customer,Xóa khách hàng
+Delete Customer Group,Xóa nhóm khách hàng
+Delete customer,Xóa khách hàng
+Delete customer address,Xóa địa chỉ khách hàng
+Deleted Stores,Xóa các cửa hàng
+Details,Chi tiết
+Disabled,Tắt
+Edit,Chỉnh sửa
+Edit Account Info,Chỉnh sửa thông tin tài khoản
+Edit Account Information,Chỉnh sửa thông tin tài khoản
+Edit Address,Chỉnh sửa địa chỉ
+Edit Address Entry,Chỉnh sửa mục địa chỉ
+"Edit Customer Group ""%s"""	"Edit Customer Group ""%s"""
+Edit Customer Groups,Chỉnh sửa nhóm khách hàng
+Edit Customer's Address,Chỉnh sửa địa chỉ của khách hàng
+Edit Group,Chỉnh sửa nhóm
+Edit Newsletters,Chỉnh sửa bản tin
+Edit address,Chỉnh sửa địa chỉ
+Email	Email
+Email Address,Địa chỉ email
+Email Sender,Người gửi email
+Email:	Email:
+Enable Automatic Assignment to Customer Group,Kích hoạt tính năng tự động chuyển đến nhóm khách hàng
+Entity collection is expected.,Bộ sưu tập thực thể được kỳ vọng.
+Excel XML	Excel XML
+Failed to confirm customer account.,Không thể xác nhận tài khoản của khách hàng.
+Fax	Fax
+First Name,Họ
+Forgot Email Template,Quên mẫu email
+Forgot Password,Quên mật khẩu
+Forgot Your Password,Quên mật khẩu của bạn
+Forgot Your Password?,Quên mật khẩu của bạn?
+Forgot and Remind Email Sender,Quên và nhắc nhở người gửi email
+Form Fields Before,Mẫu các thuộc tính trước
+From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.,Từ bảng quản lý tài khoản bạn có khả năng xem ảnh chụp các hoạt động tài khoản gần đây của bạn và cập nhật thông tin tài khoản. Chọn một liên kết dưới đây để xem hoặc chỉnh sửa thông tin.
+Gender,Giới tính
+Gender is required.,Giới tính là bắt buộc.
+General Subscription,Thuê bao chung
+Generate Human-Friendly Customer ID,Tạo ID khách hàng con người thân thiện
+Global,Toàn cầu
+Group,Nhóm
+Group Information,Thông tin nhóm
+Group Name,Tên nhóm
+Group for Invalid VAT ID,Nhóm ID VAT hợp lệ
+Group for Valid VAT ID - Domestic,Nhóm ID VAT hợp lệ - trong nước
+Group for Valid VAT ID - Intra-Union,Nhóm ID VAT hợp lệ - Nội bộ - Liên đoàn
+Guest,Khách
+HTML	HTML
+"Hello, %s!","Xin chào, %s!"
+ID	ID
+IP Address,Địa chỉ IP
+"If you believe this is an error, please contact us at %s","Nếu bạn tin đây là một mỗi, vui lòng liên hệ với chúng tôi tại %s"
+"If you have an account with us, please log in.","Nếu bạn có tài khoản, vui lòng đăng nhập."
+"Invalid attribute option specified for attribute %s (%s), skipping the record.","Tùy chọn thuộc tính không hợp lệ cho thuộc tính %s (%s), bỏ qua bản ghi."
+"Invalid attribute set specified, skipping the record.","Thiết lập thuộc tính không phù hợp theo quy định, bỏ qua bản ghi."
+Invalid billing address for (%s),Địa chỉ thanh toán không hợp lệ cho (%s)
+Invalid current password,Mật khẩu hiện tại không đúng
+Invalid customer data,Dữ liệu khách hàng không hợp lệ
+"Invalid email address ""%s"".","Địa chỉ email không hợp lệ ""%s""."
+Invalid email address.,Địa chỉ email không đúng.
+Invalid login or password.,Tài khoản hoặc mật khẩu không đúng.
+Invalid password reset token.,Mật khẩu không hợp lệ thiết lập lại mã thông báo.
+Invalid shipping address for (%s),Địa chỉ giao hàng không đúng cho (%s)
+"Invalid store specified, skipping the record.","Cửa hàng được xác định không đúng, bỏ qua bản ghi."
+"Invalid website, skipping the record, line: %s","Website không hợp lệ, bỏ qua bản ghi, dòng: %s"
+Last Activity,Hoạt động gần nhất
+Last Date Subscribed,Ngày theo dõi gần nhất
+Last Date Unsubscribed,Ngày bỏ theo dõi gần nhất
+Last Name,Tên
+Last URL,URL cuối cùng
+Leave empty for default (15 minutes).,Bỏ trống cho mặc định (15 phút).
+Leave empty for default (2). Valid range: 1-4,Bỏ trống cho mặc định (2). Phạm vi hợp lệ: 1-4
+Lifetime Sales,Thời gian bán
+Log In,Đăng nhập
+Log Out,Đăng xuất
+Login,Đăng nhập
+Login Information,Thông tin đăng nhập
+Login Options,Tùy chọn đăng nhập
+Login and password are required.,Đăng nhập và mật khẩu là bắt buộc.
+Login or Create an Account,Đăng nhập hoặc tạo tài khoản
+MM	MM
+Manage Addresses,Quản lý địa chỉ
+Manage Customers,Quản lý khách hàng
+Maximum length must be less then %s symbols,Chiều dài tối đa phải ít hơn %s kí hiệu
+Middle Name,Tên đệm
+"Missing email, skipping the record, line: %s","Thất lạc email, bỏ qua bản ghi, dòng: %s"
+"Missing email, skipping the record.","Thất lạc email, bỏ qua bản ghi."
+"Missing first name, skipping the record, line: %s","Thiếu họ, bỏ qua bản ghi, dòng: %s"
+"Missing firstname, skipping the record.","Thiếu họ, bỏ qua bản ghi."
+"Missing last name, skipping the record, line: %s","Thiếu tên, bỏ qua bản ghi, dòng: %s"
+"Missing lastname, skipping the record.","Thiếu tên, bỏ qua bản ghi."
+"Missing website, skipping the record, line: %s","Thiếu trang web, bỏ qua bản ghi, dòng: %s"
+Month,Tháng
+My Account,Tài khoản của tôi
+My Account Wrapper,Tài khoản của tôi
+My Dashboard,Bảng quản lý
+My Orders,Đơn hàng
+Name,Tên
+Name and Address Options,Tùy chọn tên và địa chỉ
+Never,Không bao giờ
+New Address,Địa chỉ mới
+New Address Entry,Mục địa chỉ mới
+New Customer,Khách hàng mới
+New Customer Address,Địa chỉ khách hàng mới
+New Customer Group,Nhóm khách hàng mới
+New Customer Groups,Các nhóm khách hàng mới
+New Customers,Các khách hàng mới
+New Group,Nhóm mới
+New Password,Mật khẩu mới
+New account,Tài khoản mới
+New account confirmation key,Khóa xác nhận tài khoản mới
+New account confirmed,Tài khoản mới được xác nhận
+New password field cannot be empty.,Trường mật khẩu mới không thể trống.
+Newsletter,Bản tin
+Newsletter Finish,Bản tin kết thúc
+Newsletter Information,Thông tin bản tin
+Newsletter Received,Bẩn tin nhận được
+Newsletter Start,Bản tin bắt đầu
+Newsletter Subscription	Newsletter Subscription
+Newsletters,Bản tin
+No Items Found,Không tìm thấy sản phẩm
+No Newsletter Found,Không tìm thấy bản tin
+No customer collections found,Không tìm thấy bộ sưu tập khách hàng
+No item specified.Không xác định được mặt hàng.
+Not Sent,Không gửi được
+"Not confirmed, can login","Không được xác nhận, có thể đăng nhập"
+"Not confirmed, cannot login","Không được xác nhận, không thể đăng nhập"
+Number of Lines in a Street Address ,số dòng trong một địa chỉ đường 
+Offline,Không trực tuyến
+Online,Trực tuyến
+Online Customers,Các khách hàng trực tuyến
+Online Customers Options,Các tùy chọn khách hàng trực tuyến
+Online Minutes Interval,Khoảng thời gian trực tuyến
+Order #,Đặt hàng #
+Order Total,Tổng số đơn hàng
+Orders,Đơn đặt hàng
+PDF	PDF
+Password,Mật khẩu
+Password Management,Quản lý mật khẩu
+Password Options,Tùy chọn mật khẩu
+Password forgotten,Quên mật khẩu
+Password:,Mật khẩu:
+Paused,Tạm dừng
+Pending,Chưa giải quyết
+Per Website,Mỗi trang web
+Personal Information,Thông tin cá nhân
+Please enter a number 1 or greater in this field.,Vui lòng nhập một số 1 hoặc lớn hơn trong mục này.
+Please enter a valid date between %s and %s at %s.,Vui lòng nhập một ngày hợp lệ giữa %s và %s tại %s.
+Please enter a valid date equal to or greater than %s at %s.,Vui lòng nhập một ngày hợp lệ bằng hoặc lớn hơn %s tại %s.
+Please enter a valid date less than or equal to %s at %s.,Vui lòng nhập một ngày hợp lệ ít hơn hoặc bằng %s tại %s.
+Please enter the city.,Vui lòng nhập thành phố.
+Please enter the country.,Vui lòng nhập quốc gia.
+Please enter the first name.,Vui lòng nhập họ.
+Please enter the last name.,Vui lòng nhập tên.
+Please enter the state/province.,Vui lòng nhập tiểu bang/tỉnh.
+Please enter the street.,Vui lòng nhập tên đường.
+Please enter the telephone number.,Vui lòng nhập số điện thoại.
+Please enter the zip/postal code.,Vui lòng nhập mã zip/bưu chính.
+Please enter your email address below. You will receive a link to reset your password.,Vui lòng nhập email của bạn bên dưới. Bạn sẽ nhận được một liên kết để làm mới mật khẩu của bạn.
+Please enter your email below and we\'ll send you confirmation link for it.,Vui lòng nhập email của bạn bên dưới và chúng tôi sẽ gửi một liên kết xác nhận cho bạn.
+Please enter your email.,Vui lòng nhập email của bạn.
+Please make sure your passwords match.,Vui lòng chắc chắn mật khẩu của bạn đã chính xác.
+Please select a website which contains store view,Vui lòng lựa chọn một trang web nhìn thấy cửa hàng 
+"Please select region, state or province","Hãy chọn khu vực, tỉnh"
+"Please, check your email for confirmation key.","Vui lòng kiểm tra email của bạn để xác nhận."
+Prefix Dropdown Options,Tùy chọn thả xuống tiếp đầu ngữ
+Price,Giá
+Product,Sản phẩm
+Product ID,ID sản phẩm
+Product Name,Tên sản phẩm
+Product Reviews,Nhận xét sản phẩm
+Product Tags,Tags sản phẩm
+Purchase On,Mua vào
+Purchased On,Mua vào
+Qty	Qty
+Recent Orders,Những đơn hàng gần đây
+Records for %s store found.,Hồ sơ cho %s cửa hàng được tìm thấy.
+Recovery Link Expiration Period (days),Phục hồi thời gian liên kết hết hạn (ngày)
+Redirect Customer to Account Dashboard after Logging in,Chuyển hướng khách hàng vào bảng quản lý sau khi đăng nhập
+Refunded,Hoàn trả
+Register,Đăng kí
+Registered Customers,Những khách hàng đã đăng kí
+Remind Email Template,Mẫu email nhắc nhở
+Remind Password,Nhắc nhở mật khẩu
+Remove,gỡ bỏ
+Remove address,Gỡ địa chỉ
+Require Emails Confirmation,Yêu cầu email xác nhận
+Require admin user to change user password,Yêu cầu người quản trị thay đổi mật khẩu người dùng
+Reset a Password,Thiết lập lại mật khẩu
+Retrieve address data,Lấy dữ liệu địa chỉ
+Retrieve address info,Lấy thông tin địa chỉ
+Retrieve customer addresses,Lấy địa chỉ khách hàng
+Retrieve customer data,Lấy dữ liệu khách hàng
+Retrieve customer groups,Lấy các nhóm khách hàng
+Retrieve customer info,Lấy thông tin khách hàng
+Retrieve customers,Tìm các khách hàng
+Retrieve your confirmation link here,Lấy liên kết xác nhận của bạn ở đây
+Retrieve your password here,Lấy lại mật khẩu của bạn ở đây
+SKU	SKU
+Sales Statistics,Thống kê doanh số bán hàng
+Save,Lưu
+Save Address,Lưu địa chỉ
+Save Customer,Lưu khách hàng
+Save Customer Group,Lưu nhóm khách hàng
+Save Password,Lưu mật khẩu
+Save and Continue Edit,Lưu và tiếp tục chỉnh sửa
+Saved %d record(s),Đã lưu %d bản ghi
+Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Dấu chấm phẩy (;) giá trị tách biệt.<br/>Đặt dấu chấm phẩy ở đầu để lựa chọn sản phẩm đầu tiên.<br/>Để trống cho mục văn bản mở.
+Send Auto-Generated Password,Gửi mật khẩu tự động tạo
+Send From,Gửi từ
+Send Welcome Email,Gửi email chào mừng
+Send Welcome Email after Confirmation,Gửi email chào mừng sau khi xác nhận
+Send confirmation link,Gửi liên kết xác nhận
+Sending,Đang gửi
+Sent,Đã gửi
+Session Start Time,Thời gian bắt đầu phiên
+Set as Default Billing Address,Thiết lập như địa chỉ thanh toán mặc định
+Set as Default Shipping Address,Thiết lập như địa chỉ giao hàng mặc định
+Share Customer Accounts,Chia sẻ các tài khoản khách hàng
+Shipped to First Name,Chuyển đến họ
+Shipped to Last Name,Chuyển đến tên
+Shipped to Name,Chuyển đến tên
+Shopping Cart,Giỏ mua sắm
+Shopping Cart - %d item(s),Giỏ mua sắm - %d mặt hàng
+Shopping Cart of %1$s - %2$d item(s),Giỏ mua sắm của %1$s - %2$d mặt hàng
+Show Date of Birth,Hiển thị ngày sinh
+Show Gender,Hiện giới tính
+Show Middle Name (initial),Hiển thị tên đệm(ban đầu)
+Show Prefix,Hiển thị tiền tố(đầu ngữ)
+Show Suffix,Hiển thị hậu tố(vĩ ngữ)
+Show Tax/VAT Number,Hiện thuế/VAT
+Show VAT Number on Frontend,Hiện số thuế GTGT lúc vào
+Sign Up for Newsletter,Đăng kí để nhận bản tin
+"Skipping import row, required field ""%s"" is not defined.","Bỏ qua hàng nhập khẩu, phần bắt buộc  ""%s"" không được định nghĩa."
+"Skipping import row, website ""%s"" field does not exist.","Bỏ qua hàng nhập khẩu, trang web ""%s"" mục không tồn tại."
+State/Province,Tiểu bang/Tỉnh
+Status,Trạng thái
+Store,Cửa hàng
+Store View,cửa hàng trưng bày
+Street Address,Địa chỉ đường
+Street Address %s,Địa chỉ đường %s
+Subject,Chủ đề
+Submit,Chấp nhận
+Subscribe to Newsletter,Đăng kí tin
+Subscribed to Newsletter?,Đã đăng kí bản tin?
+Suffix Dropdown Options,Tùy chọn thả xuống hậu tố
+Tag Name,Tag tên
+Tax Calculation Based On,Tính toán thuế dựa trên
+Tax Class,Phân loại thuế
+Tax/VAT number,Số thuế/thuế GTGT
+Telephone,Điện thoại
+Text,Văn bản
+Text One Line,Một dòng văn bản
+Thank you for registering with %s.,Cảm ơn bạn đã đăng kí với %s.
+The Date of Birth is required.,Ngày sinh là cần thiết.
+The TAX/VAT number is required.,Số thuế/thuế GTGT là cần thiết.
+The VAT ID entered (%s) is not a valid VAT ID.,Nhập ID VAT (%s) không phải là một ID VAT hợp lệ.
+The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.,Nhập ID VAT (%s) không phải là một ID VAT hợp lệ. Khách hàng sẽ thuộc về nhóm khách hàng %s.
+The VAT ID is valid. The current Customer Group will be used.,ID VAT hợp lệ. Nhóm khách hàng hiện tại sẽ được sử dụng.
+The account information has been saved.,Các thông tin tài khoản đã được lưu.
+The address does not belong to this customer.,Địa chỉ không thuộc về khách hàng này.
+The address has been deleted.,Địa chỉ đã bị xóa.
+The address has been saved.,Địa chỉ đã được lưu.
+"The customer ID and email did not match, skipping the record, line: %s","ID khách hàng và email không đúng, bỏ qua bản ghi, dòng: %s"
+The customer does not have default billing address.,Khách hàng không có địa chỉ thanh toán mặc định.
+"The customer email (%s) already exists, skipping the record, line: %s","Email khách hàng (%s) đã tồn tại, bỏ qua bản ghi, dòng: %s"
+The customer group has been deleted.,Nhóm khách hàng đã bị xóa.
+The customer group has been saved.,Nhóm khách hàng đã được lưu.
+The customer is currently assigned to Customer Group %s.,Khách hàng được nhóm vào nhóm khách hàng hiện tại %s.
+The first name cannot be empty.,Họ không thể bỏ trống.
+"The group ""%s"" cannot be deleted","Nhóm ""%s"" không thể xóa"
+The last name cannot be empty.,Không thể để trống tên.
+The minimum password length is %s,Chiều dài mật khẩu tối thiểu là %s
+The password cannot be empty.,Không thể bỏ trống mật khẩu.
+The password must have at least 6 characters. Leading or trailing spaces will be ignored.,Mật khẩu phải có ít nhất 6 kí tự. Khoảng trống đầu hoặc dấu sẽ bị bỏ qua.
+"The suffix that goes after name (Jr., Sr., etc.)","Các hậu tố đi sau tên (Jr., Sr., vv.)"
+"The title that goes before name (Mr., Mrs., etc.)","Các danh hiệu đi trước tên (Ông, Bà., etc.)"
+There are no items in customer's wishlist at the moment,Hiện không có sản phẩm nào tỏng danh sách mong muốn của khách hàng tại thời điểm này
+There are no items in customer\'s shopping cart at the moment,Không có sản phẩm nào trong giỏ mua sắm của khách hàng tại thời điểm này
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","Hiện đã có tài khoản với địa chỉ email này. Nếu bạn chắc chắn rằng đó là địa chỉ email của bạn, <a href=""%s"">click vào đây</a> để lấy lại mật khẩu của bạn và truy cập tài khoản."
+There was an error validating the VAT ID.,Có lỗi khi xác nhận ID VAT.
+There was an error validating the VAT ID. The customer would belong to Customer Group %s.,Có lỗi khi xác nhận ID VAT. Khách hàng sẽ thuộc về nhóm khách hàng %s.
+This account is not confirmed.,Tài khoản này không được xác nhận.
+This customer email already exists,Email đã tồn tại
+This customer has no saved addresses.,Khách hàng này không có địa chỉ lưu.
+This email does not require confirmation.,Email này không yêu cầu xác nhận.
+"This email will be sent instead of default welcome email, after account confirmation.","Email này sẽ được gửi thay cho email chào mừng mặc định, sau khi xác nhận tài khoản."
+This is My Default %s Address,Đây là địa chỉ mặc định của tôi %s 
+To Cart,Vào giỏ hàng
+"To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Để hiển thị số thuế GTGT lên lối vào, thiết lập hiển thị số thuế GTGT trên tùy chọn lối vào là Yes."
+Total,Tổng số
+Type,Kiểu
+Unable to save the customer.,Không thể lưu khách hàng.
+Unknown,Không xác định
+Unsubscribe from Newsletter,Hủy đăng kí bản tin
+Update,Cập nhật
+Update customer address data,Cập nhật dữ liệu địa chỉ khách hàng
+Update customer data,Cập nhật dữ liệu khách hàng
+Use as My Default %s Address,Sử dụng mặc định địa chỉ của tôi  %s 
+Use as My Default Billing Address,sử dụng địa chỉ thanh toán mặc định của tôi
+Use as My Default Shipping Address,Sử dụng địa chỉ giao hàng mặc định của tôi
+Use as my default billing address,Sử dụng địa chỉ thanh toán mặc định của tôi
+Use as my default shipping address,Sử dụng địa chỉ giao hàng mặc định của tôi
+VAT Number,Thuế GTGT
+VAT Request Date,VAT theo ngày
+VAT Request Identifier,VAT theo định danh
+Validate VAT Number,Xác nhận thuế GTGT
+Validate on Each Transaction,Xác nhận trên mỗi giao dịch
+Validation Error Group,Nhóm xác nhận lỗi
+View,Xem
+View Order,Xem đơn hàng
+Visitor,Khách viếng thăm
+Visitors Only,Chỉ khách xem
+Website	Website
+Welcome Email,Email chào mừng
+Wishlist,Sản phẩm ưa thích
+Wishlist - %d item(s),Sản phẩm ưa thích - %d sản phẩm
+Would you like to change the Customer Group for this order?,Bạn có muốn thay đổi nhóm khách hàng cho đơn hàng này?
+Wrong confirmation key.,Sai khóa xác nhận.
+Wrong customer account specified.,Tài khoản khách hàng sai quy định.
+Wrong email.,Sai email.
+Wrong transactional account email type,Sai email tài khoản giao dịch
+YYYY	YYYY
+Year,Năm
+You are currently not subscribed to any newsletter.,Bạn hiện tại chưa đăng ký bất kì bản tin nào.
+You are currently not subscribed to our newsletter.,Bạn hiện tại chưa đăng ký nhận bản tin của chúng tôi.
+You are currently subscribed to 'General Subscription'.,Bạn hiện đã đăng kí 'Thuê bao chung'.
+You are currently subscribed to our newsletter.,Bạn hiện đã đăng kí nhận bản tin của chúng tôi.
+You are now logged out,Bạn đã đăng xuất
+You have logged out and will be redirected to our homepage in 5 seconds.,Bạn đã đăng xuất và sẽ chuyển tới trang chủ trong 5 giây.
+You have no additional address entries in your address book.,Bạn không có mục địa chỉ bổ sung trong địa chỉ của bạn.
+You have no additional entries in your address book.,Bạn không có mục bổ sung trong số địa chỉ của bạn.
+You have no default billing address in your address book.,Bạn không có địa chỉ thanh toán mặc định trong sổ địa chỉ của bạn.
+You have no default entries in your address book.,Bạn không có mục mặc định trong sổ địa chỉ của bạn.
+You have no default shipping address in your address book.,Bạn không có địa chỉ giao hàng mặc định trong sổ địa chỉ của bạn.
+You have not set a default billing address.,Bạn đã không thiết lập một địa chỉ thanh toán mặc định.
+You have not set a default shipping address.,Bạn đã không thiết lập một địa chỉ giao hàng mặc định.
+You have placed no orders yet.,Bạn đã đặt không có đơn hàng nào.
+You have placed no products yet.,Bạn đã đặt không có sản phẩm nào.
+You will be charged tax.,Bạn sẽ phải trả thuế.
+You will not be charged tax.,Bạn sẽ không phải trả thuế.
+Your Tax ID cannot be validated.,Mã số thuế của bạn không thể xác nhận.
+Your VAT ID was successfully validated.,ID VAT của bạn đã được xác nhận thành công.
+Your account balance is: %s,Số dư tài khoản của bạn là: %s
+ZIP	ZIP
+ZIP/Post Code,Mã Zip/Bưu chính
+Zip/Postal Code,Mã zip/Bưu chính
+n/a	n/a
+or,Hoặc
+register,Đăng kí
